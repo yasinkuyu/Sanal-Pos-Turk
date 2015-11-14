@@ -5,10 +5,9 @@ Türkiye'de sanal pos hizmeti veren bankalar için omnipay ödeme kütüphaneler
 
 Bu ödeme alt yapılarını composer ile projenize dahil edebilirsiniz.
 Bunun için;
-  
-  $ curl -s http://getcomposer.org/installer | php
-  $ php composer.phar update
 
+    $ curl -s http://getcomposer.org/installer | php
+    $ php composer.phar update
 
 # NestPay (EST)
 (İş Bankası, Akbank, Finansbank, Denizbank, Kuveytturk, Halkbank, Anadolubank, ING Bank, Citibank, Cardplus) gateway for Omnipay payment processing library
